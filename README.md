@@ -1,4 +1,4 @@
-# The React/Redux code of Responsive Simple Create Card App
+# React/Redux code of Responsive Simple Create Card App
 ![cover for app](https://github.com/nick-mychka/input-output_on_react_redux_code/blob/master/cover-repo.png "Cover of simple app")
 
 * * *
